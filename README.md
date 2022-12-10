@@ -1,7 +1,7 @@
 # thuthesis-biomedical
 简明介绍：清华大学生物，医学，药学等相关专业的毕业论文latex模板。也适用于其他专业。本模板在tuna协会的thuthesis项目基础上，增补了和生医药相关同学的内容，也增添了对latex新手更加友好的注释。
 
-本文档基于清华大学TUNA协会的开源项目thuthesis(https://github.com/tuna/thuthesis#readme)。核心代码是TUNA协会组织编写的，本文档只是针对生物医药相关的同学在撰写毕业论文时调整格式时的需要增加了对新手更加友好的注释，以及一些细节内容和实例。如果需要，可以通过覆盖.cls文件的方法，使用TUNA协会发布的新版本ThuThesis模板。但是某些部分，比如.cls文件中关于"系统性创新性说明"部分的代码(可以通过检索"创新性"检索到)，需要重新加入到新版本的.cls文件中。
+本文档基于清华大学TUNA协会的开源项目thuthesis。核心代码是TUNA协会组织编写的，本文档只是针对生物医药相关的同学在撰写毕业论文时调整格式时的需要增加了对新手更加友好的注释，以及一些细节内容和实例。如果需要，可以通过覆盖.cls文件的方法，使用TUNA协会发布的新版本ThuThesis模板。但是某些部分，比如.cls文件中关于"系统性创新性说明"部分的代码(可以通过检索"创新性"检索到)，需要重新加入到新版本的.cls文件中。
 
 清华大学TUNA协会:Tsinghua University TUNA Association, 
 https://github.com/tuna
