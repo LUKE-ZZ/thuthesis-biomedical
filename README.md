@@ -35,7 +35,10 @@ TeX Live version:
 
 
 <br>
-
+<br>
+无注释版本的常用表格，图片和符号的代码可以从这个页面获取
+https://note.youdao.com/s/MIzhy2yr
+<br>
 
 ### 在 ThuThesis 基础上增加的内容有:
 
