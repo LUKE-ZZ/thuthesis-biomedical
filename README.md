@@ -18,6 +18,19 @@ https://github.com/tuna/thuthesis
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+注意使用时
+Main document应当设置为
+!thuthesis-main.tex
+
+
+本文档在编辑时使用的设置是：
+Complier:
+XeLaTeX
+
+TeX Live version:
+2022
+
+
 
 在 ThuThesis 基础上增加的内容有:
 
