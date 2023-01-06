@@ -36,14 +36,19 @@ TeX Live version:
 
 <br>
 <br>
-无注释版本的常用表格，图片和符号的代码可以从这个页面获取
 https://note.youdao.com/s/MIzhy2yr
+<br>
+无注释版本的常用表格，图片和符号的latex代码可以从这个页面获取，撰写论文时，可以从中直接复制便于快速加入表格和图片。
+
 <br>
 
 <br>
 https://note.youdao.com/s/FrQSV6Bn
-这个公开状态的有道笔记记录了很多Overleaf中使用的技巧和常见bug的解决方法
 <br>
+这个公开状态的有道笔记记录了很多Overleaf中使用的技巧和常见bug的解决方法。
+<br>
+<br>
+
 如果使用overleaf编译，推荐使用VPN并且开启全局代理，以达到更好的连接稳定性。
 
 <br>
