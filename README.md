@@ -40,6 +40,10 @@ TeX Live version:
 https://note.youdao.com/s/MIzhy2yr
 <br>
 
+<br>
+https://note.youdao.com/s/FrQSV6Bn
+这个公开状态的有道笔记记录了很多Overleaf中使用的技巧和常见bug的解决方法
+<br>
 如果使用overleaf编译，推荐使用VPN并且开启全局代理，以达到更好的连接稳定性。
 
 <br>
