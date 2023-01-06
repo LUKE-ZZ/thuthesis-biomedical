@@ -1,5 +1,5 @@
 # thuthesis-biomedical
-简明介绍：此文档是清华大学生物，医学，药学等相关专业的毕业论文latex模板。也适用于其他专业。本模板在tuna协会的thuthesis项目基础上，增补了和生医药相关同学的内容，也增添了对latex新手更加友好的注释。
+简明介绍：此文档是清华大学生命科学，基础医学，药学等相关专业的毕业论文latex模板。也适用于其他专业。本模板在tuna协会的thuthesis项目基础上，增补了和生医药相关同学的内容，也增添了对latex新手更加友好的注释。
 
 本文档基于清华大学TUNA协会的开源项目thuthesis。核心代码是TUNA协会组织编写的，本文档只是针对生物医药相关的同学在撰写毕业论文时调整格式时的需要增加了对新手更加友好的注释，以及一些细节内容和实例。如果需要，可以通过覆盖.cls文件的方法，使用TUNA协会发布的新版本ThuThesis模板。但是某些部分，比如.cls文件中关于"系统性创新性说明"部分的代码(可以通过检索"创新性"检索到)，需要重新加入到新版本的.cls文件中。
 
@@ -39,6 +39,11 @@ TeX Live version:
 无注释版本的常用表格，图片和符号的代码可以从这个页面获取
 https://note.youdao.com/s/MIzhy2yr
 <br>
+
+如果使用overleaf编译，推荐使用VPN并且开启全局代理，以达到更好的连接稳定性。
+
+<br>
+使用overleaf编译后的字体和标准的宋体会有非常微弱的差异，不是很影响最终效果。如果在意的话，可以使用windows电脑上的Tex live编译。在线安装地址为 http://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/install-tl-windows.exe 。使用Mac可能会造成字体显示异常。Abort按钮变灰并且有welcome界面即表明安装完成。从overleaf上下载源文件的压缩包(左上角叶子图标-download source)后解压，找到tex主文件，会默认用texwork editor打开，XeLatex编译两次，BiTex编译一次，XeLatex编译一次，BiTex编译一次，XeLatex编译一次，即可得到对应论文写作指导手册中标准字体的文件。
 
 ### 在 ThuThesis 基础上增加的内容有:
 
