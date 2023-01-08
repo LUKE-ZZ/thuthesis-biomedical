@@ -49,6 +49,16 @@ https://note.youdao.com/s/FrQSV6Bn
 <br>
 <br>
 
+有关学术论文写作的资料合集：
+<br>
+https://m.igetget.com/native/collection#/studylist/detail?id=W2jND3Q6ymXxjjhD4d18RKB4nGqAMo
+<br>
+有关如何做报告的资料合集：
+<br>
+https://m.igetget.com/native/collection#/studylist/detail?id=agjzlDZVmPvq44UgkLR81xEwOGKLrq
+<br>
+<br>
+<br>
 如果使用overleaf编译，推荐使用VPN并且开启全局代理，以达到更好的连接稳定性。
 
 <br>
