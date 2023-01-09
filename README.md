@@ -3,11 +3,8 @@
 
 本文档基于清华大学TUNA协会的开源项目thuthesis。核心代码是TUNA协会组织编写的，本文档只是针对生物医药相关的同学在撰写毕业论文时调整格式时的需要增加了对新手更加友好的注释，以及一些细节内容和实例。如果需要，可以通过覆盖.cls文件的方法，使用TUNA协会发布的新版本ThuThesis模板。但是某些部分，比如.cls文件中关于"系统性创新性说明"部分的代码(可以通过检索"创新性"检索到)，需要重新加入到新版本的.cls文件中。
 
-清华大学TUNA协会:Tsinghua University TUNA Association
-https://github.com/tuna
-
-thuthesis模板：
-https://github.com/tuna/thuthesis
+请结合视频教程使用
+https://www.bilibili.com/video/BV14D4y1V7Db/
 
 本文档主要针对生医药大类的，并且没有接触过latex的同学。也可以作为其他院系使用thuthesis模板的入门文档。推荐使用在线版latex编辑工具overleaf。也适用其他Latex编辑工具，但是可能对没有接触过latex的同学学习成本更高一些。推荐结合说明视频使用。
 
@@ -60,9 +57,21 @@ https://m.igetget.com/native/collection#/studylist/detail?id=agjzlDZVmPvq44UgkLR
 <br>
 <br>
 如果使用overleaf编译，推荐使用VPN并且开启全局代理，以达到更好的连接稳定性。
+推荐使用的VPN：（建议使用客户端，并且打开全局代理）
+https://tapfog.com/#/register?code=QXwzm0JY
 
 <br>
 使用overleaf编译后的字体和标准的宋体会有非常微弱的差异，不是很影响最终效果。如果在意的话，可以使用windows电脑上的Tex live编译。在线安装地址为 http://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/tlnet/install-tl-windows.exe 。使用Mac可能会造成字体显示异常。Abort按钮变灰并且有welcome界面即表明安装完成。从overleaf上下载源文件的压缩包(左上角叶子图标-download source)后解压，找到tex主文件，会默认用texwork editor打开，XeLatex编译两次，BiTex编译一次，XeLatex编译一次，BiTex编译一次，XeLatex编译一次，即可得到对应论文写作指导手册中标准字体的文件。
+<br>
+<br>
+
+相关链接：
+<br>
+清华大学TUNA协会:Tsinghua University TUNA Association
+https://github.com/tuna
+
+thuthesis模板（本文档基于该通用清华大学毕业论文模板）
+https://github.com/tuna/thuthesis
 
 ### 在 ThuThesis 基础上增加的内容有:
 
