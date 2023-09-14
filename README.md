@@ -57,7 +57,7 @@ https://m.igetget.com/native/collection#/studylist/detail?id=agjzlDZVmPvq44UgkLR
 <br>
 <br>
 如果使用overleaf编译，推荐使用VPN并且开启全局代理，以达到更好的连接稳定性。
-推荐使用的VPN：（建议使用客户端，并且打开全局代理）
+推荐使用的VPN：（按照官网教程，并且打开全局代理）
 https://tapfog.com/#/register?code=QXwzm0JY
 
 <br>
